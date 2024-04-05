@@ -117,4 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Hello, this is a sample of my WinForm. First, you need to create a Customer. If you don't do that, you can't create an Address because you need the Customer ID. Also, remember that if you create an Address for a customer, you can't delete that customer created form. If you want to delete a customer, you have to delete the Address first. After that, you can create a product without limitation. However, if you want to create an order, you need a customer address and a product, and once you create those, you can't delete them. If you want to delete an address, customer, and product, first, you need to delete the order, and then you can delete them.</value>
+  </data>
 </root>
